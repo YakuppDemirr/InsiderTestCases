@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Insider API Test" verbose="2">
+    <test name="Test Cases API">
+        <classes>
+            <class name="com.insider.InsiderApiTest" />
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,5 @@
+1- n11.com ana sayfasına gidilir.
+2- Ana sayfanın açılıp açılmadığı kontrol edilir.
+3- Arama çubuğuna gidilir.
+4- Rastgele bir ürün ismi yazılır ve arama yapılır.
+5- Listelenen ürünlerin yazılan ürünle aynı olup olmadığı kontrol edilir.
